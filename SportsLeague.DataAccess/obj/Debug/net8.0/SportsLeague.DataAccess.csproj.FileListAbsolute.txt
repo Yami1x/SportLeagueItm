@@ -1,0 +1,51 @@
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.DataAccess.deps.json
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.DataAccess.runtimeconfig.json
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.DataAccess.dll
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.DataAccess.pdb
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.Domain.dll
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.Domain.pdb
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.AssemblyInfo.cs
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLe.95752F64.Up2Date
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.dll
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\refint\SportsLeague.DataAccess.dll
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.pdb
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.genruntimeconfig.cache
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\ref\SportsLeague.DataAccess.dll
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.DataAccess.deps.json
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.DataAccess.runtimeconfig.json
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.DataAccess.dll
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.DataAccess.pdb
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.Domain.dll
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.Domain.pdb
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.csproj.AssemblyReference.cache
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.AssemblyInfoInputs.cache
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.AssemblyInfo.cs
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLe.95752F64.Up2Date
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.dll
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\refint\SportsLeague.DataAccess.dll
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.pdb
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.genruntimeconfig.cache
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\ref\SportsLeague.DataAccess.dll
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.DataAccess.deps.json
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.DataAccess.runtimeconfig.json
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.DataAccess.dll
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.DataAccess.pdb
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.Domain.dll
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\bin\Debug\net8.0\SportsLeague.Domain.pdb
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.AssemblyInfo.cs
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLe.95752F64.Up2Date
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.dll
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\refint\SportsLeague.DataAccess.dll
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.pdb
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\SportsLeague.DataAccess.genruntimeconfig.cache
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.DataAccess\obj\Debug\net8.0\ref\SportsLeague.DataAccess.dll

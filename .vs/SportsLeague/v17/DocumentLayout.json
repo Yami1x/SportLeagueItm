@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DC8407-E0E6-4034-936E-4656A37DD56E}|SportsLeague.API\\SportsLeague.API.csproj|c:\\users\\personal\\sportsleague\\sportsleague\\sportsleague\\sportsleague.api\\dtos\\response\\sponsorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DC8407-E0E6-4034-936E-4656A37DD56E}|SportsLeague.API\\SportsLeague.API.csproj|solutionrelative:sportsleague.api\\dtos\\response\\sponsorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DC8407-E0E6-4034-936E-4656A37DD56E}|SportsLeague.API\\SportsLeague.API.csproj|c:\\users\\personal\\sportsleague\\sportsleague\\sportsleague\\sportsleague.api\\dtos\\request\\tournamentsponsorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DC8407-E0E6-4034-936E-4656A37DD56E}|SportsLeague.API\\SportsLeague.API.csproj|solutionrelative:sportsleague.api\\dtos\\request\\tournamentsponsorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DC8407-E0E6-4034-936E-4656A37DD56E}|SportsLeague.API\\SportsLeague.API.csproj|c:\\users\\personal\\sportsleague\\sportsleague\\sportsleague\\sportsleague.api\\controllers\\sponsorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DC8407-E0E6-4034-936E-4656A37DD56E}|SportsLeague.API\\SportsLeague.API.csproj|solutionrelative:sportsleague.api\\controllers\\sponsorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C9646D-9275-44F3-882E-9C959439534F}|SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj|c:\\users\\personal\\sportsleague\\sportsleague\\sportsleague\\sportsleague.dataaccess\\repositories\\sponsorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C9646D-9275-44F3-882E-9C959439534F}|SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj|solutionrelative:sportsleague.dataaccess\\repositories\\sponsorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DC8407-E0E6-4034-936E-4656A37DD56E}|SportsLeague.API\\SportsLeague.API.csproj|c:\\users\\personal\\sportsleague\\sportsleague\\sportsleague\\sportsleague.api\\dtos\\request\\sponsorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DC8407-E0E6-4034-936E-4656A37DD56E}|SportsLeague.API\\SportsLeague.API.csproj|solutionrelative:sportsleague.api\\dtos\\request\\sponsorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C9646D-9275-44F3-882E-9C959439534F}|SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj|c:\\users\\personal\\sportsleague\\sportsleague\\sportsleague\\sportsleague.dataaccess\\repositories\\tournamentsponsorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C9646D-9275-44F3-882E-9C959439534F}|SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj|solutionrelative:sportsleague.dataaccess\\repositories\\tournamentsponsorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TournamentSponsorRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.API\\DTOs\\Request\\TournamentSponsorRequestDTO.cs",
+              "RelativeDocumentMoniker": "SportsLeague.API\\DTOs\\Request\\TournamentSponsorRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.API\\DTOs\\Request\\TournamentSponsorRequestDTO.cs",
+              "RelativeToolTip": "SportsLeague.API\\DTOs\\Request\\TournamentSponsorRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T18:16:34.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SponsorResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.API\\DTOs\\Response\\SponsorResponseDTO.cs",
+              "RelativeDocumentMoniker": "SportsLeague.API\\DTOs\\Response\\SponsorResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.API\\DTOs\\Response\\SponsorResponseDTO.cs",
+              "RelativeToolTip": "SportsLeague.API\\DTOs\\Response\\SponsorResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:52:14.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SponsorRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.API\\DTOs\\Request\\SponsorRequestDTO.cs",
+              "RelativeDocumentMoniker": "SportsLeague.API\\DTOs\\Request\\SponsorRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.API\\DTOs\\Request\\SponsorRequestDTO.cs",
+              "RelativeToolTip": "SportsLeague.API\\DTOs\\Request\\SponsorRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:52:07.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SponsorController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.API\\Controllers\\SponsorController.cs",
+              "RelativeDocumentMoniker": "SportsLeague.API\\Controllers\\SponsorController.cs",
+              "ToolTip": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.API\\Controllers\\SponsorController.cs",
+              "RelativeToolTip": "SportsLeague.API\\Controllers\\SponsorController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAcwF4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:51:34.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TournamentSponsorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.DataAccess\\Repositories\\TournamentSponsorRepository.cs",
+              "RelativeDocumentMoniker": "SportsLeague.DataAccess\\Repositories\\TournamentSponsorRepository.cs",
+              "ToolTip": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.DataAccess\\Repositories\\TournamentSponsorRepository.cs",
+              "RelativeToolTip": "SportsLeague.DataAccess\\Repositories\\TournamentSponsorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:51:31.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SponsorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.DataAccess\\Repositories\\SponsorRepository.cs",
+              "RelativeDocumentMoniker": "SportsLeague.DataAccess\\Repositories\\SponsorRepository.cs",
+              "ToolTip": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.DataAccess\\Repositories\\SponsorRepository.cs",
+              "RelativeToolTip": "SportsLeague.DataAccess\\Repositories\\SponsorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:51:27.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

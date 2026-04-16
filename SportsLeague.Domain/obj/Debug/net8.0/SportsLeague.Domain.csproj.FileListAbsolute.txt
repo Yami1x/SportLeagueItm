@@ -1,0 +1,36 @@
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.Domain\bin\Debug\net8.0\SportsLeague.Domain.deps.json
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.Domain\bin\Debug\net8.0\SportsLeague.Domain.dll
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.Domain\bin\Debug\net8.0\SportsLeague.Domain.pdb
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.AssemblyInfo.cs
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.dll
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\refint\SportsLeague.Domain.dll
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.pdb
+C:\Users\Personal\Desktop\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\ref\SportsLeague.Domain.dll
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.Domain\bin\Debug\net8.0\SportsLeague.Domain.deps.json
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.Domain\bin\Debug\net8.0\SportsLeague.Domain.dll
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.Domain\bin\Debug\net8.0\SportsLeague.Domain.pdb
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.csproj.AssemblyReference.cache
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.AssemblyInfoInputs.cache
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.AssemblyInfo.cs
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.dll
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\refint\SportsLeague.Domain.dll
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.pdb
+C:\Users\JOSE MIGUEL\OneDrive\Desktop\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\ref\SportsLeague.Domain.dll
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.Domain\bin\Debug\net8.0\SportsLeague.Domain.deps.json
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.Domain\bin\Debug\net8.0\SportsLeague.Domain.dll
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.Domain\bin\Debug\net8.0\SportsLeague.Domain.pdb
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.csproj.AssemblyReference.cache
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.AssemblyInfoInputs.cache
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.AssemblyInfo.cs
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.dll
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\refint\SportsLeague.Domain.dll
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\SportsLeague.Domain.pdb
+C:\Users\Personal\SportsLeague\SportsLeague\SportsLeague\SportsLeague.Domain\obj\Debug\net8.0\ref\SportsLeague.Domain.dll
