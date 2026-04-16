@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RbBwk/6Ch1c=",
+  "dgSpecHash": "C+NKSx9fdBE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Personal\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Personal\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

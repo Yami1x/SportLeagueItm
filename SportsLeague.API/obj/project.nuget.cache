@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o2uZvSHu6t0=",
+  "dgSpecHash": "BHhg2y52wrk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.API\\SportsLeague.API.csproj",
+  "projectFilePath": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.API\\SportsLeague.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Personal\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Personal\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

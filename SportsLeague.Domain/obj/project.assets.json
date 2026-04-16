@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.Domain\\SportsLeague.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.Domain\\SportsLeague.Domain.csproj",
       "projectName": "SportsLeague.Domain",
-      "projectPath": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.Domain\\SportsLeague.Domain.csproj",
+      "projectPath": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.Domain\\SportsLeague.Domain.csproj",
       "packagesPath": "C:\\Users\\Personal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\viiiisual\\NuGetPackages"

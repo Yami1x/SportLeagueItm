@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.API\\SportsLeague.API.csproj": {}
+    "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.API\\SportsLeague.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.API\\SportsLeague.API.csproj": {
+    "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.API\\SportsLeague.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.API\\SportsLeague.API.csproj",
+        "projectUniqueName": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.API\\SportsLeague.API.csproj",
         "projectName": "SportsLeague.API",
-        "projectPath": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.API\\SportsLeague.API.csproj",
+        "projectPath": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.API\\SportsLeague.API.csproj",
         "packagesPath": "C:\\Users\\Personal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.API\\obj\\",
+        "outputPath": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\viiiisual\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj"
+              "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj"
               },
-              "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.Domain\\SportsLeague.Domain.csproj": {
-                "projectPath": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.Domain\\SportsLeague.Domain.csproj"
+              "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.Domain\\SportsLeague.Domain.csproj": {
+                "projectPath": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.Domain\\SportsLeague.Domain.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj": {
+    "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj",
         "projectName": "SportsLeague.DataAccess",
-        "projectPath": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.DataAccess\\SportsLeague.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Personal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\viiiisual\\NuGetPackages"
@@ -123,8 +123,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.Domain\\SportsLeague.Domain.csproj": {
-                "projectPath": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.Domain\\SportsLeague.Domain.csproj"
+              "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.Domain\\SportsLeague.Domain.csproj": {
+                "projectPath": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.Domain\\SportsLeague.Domain.csproj"
               }
             }
           }
@@ -180,14 +180,14 @@
         }
       }
     },
-    "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.Domain\\SportsLeague.Domain.csproj": {
+    "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.Domain\\SportsLeague.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.Domain\\SportsLeague.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.Domain\\SportsLeague.Domain.csproj",
         "projectName": "SportsLeague.Domain",
-        "projectPath": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.Domain\\SportsLeague.Domain.csproj",
+        "projectPath": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.Domain\\SportsLeague.Domain.csproj",
         "packagesPath": "C:\\Users\\Personal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\viiiisual\\NuGetPackages"

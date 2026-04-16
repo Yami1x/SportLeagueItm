@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EAP2FF6kMVg=",
+  "dgSpecHash": "65vV3k8Xlus=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Personal\\SportsLeague\\SportsLeague\\SportsLeague\\SportsLeague.Domain\\SportsLeague.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Personal\\SportLeagueItm\\SportsLeague.Domain\\SportsLeague.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Personal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512",
     "C:\\Users\\Personal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.5\\microsoft.extensions.logging.abstractions.10.0.5.nupkg.sha512",
